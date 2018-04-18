@@ -1,0 +1,19 @@
+{
+    "name": "samxiao/samxiao",
+    "description": "samxiao",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "samxiao",
+            "email": "490429806@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "samxiao\\": "src/"
+        }
+     }
+}
